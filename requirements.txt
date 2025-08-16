@@ -1,6 +1,6 @@
 ﻿anyio==4.9.0
 blinker==1.9.0
-CacheControl==0.14.3
+CacheControl==0.14.3 
 cachetools==5.5.2
 certifi==2025.7.14
 cffi==1.17.1
@@ -49,3 +49,4 @@ typing_extensions==4.14.1
 uritemplate==4.2.0
 urllib3==2.5.0
 Werkzeug==3.1.3
+
