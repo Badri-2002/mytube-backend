@@ -10,7 +10,7 @@ firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://mytube-f46cc-default-rtdb.firebaseio.com/'
 })
 
-
+ 
 
 app = Flask(__name__)
 CORS(app)
